@@ -41,9 +41,9 @@ Course Introduction
 
 Screenings:
 
-{{% resource_link "d07bc102-548f-4f87-9e12-625595fbb7b2" "_Doing Anthropology: Thoughts on Fieldwork From Three Research Sites_" %}}
+[_Doing Anthropology: Thoughts on Fieldwork From Three Research Sites_](http://video.mit.edu/watch/doing-anthropology-2651/)
 
-{{% resource_link "5dd67203-6279-492f-a1c0-fe95c4b4df7a" "_The Story of Human Rights_" %}}
+[_The Story of Human Rights_](http://www.youthforhumanrights.org/what-are-human-rights.html)
 
 
 {{< tdclose >}}
@@ -210,7 +210,7 @@ Student presentation
 
 
 Palestine  
-_Guest speaker:_ {{% resource_link "8d6cd544-201c-4c2a-9ff3-c9cedef99188" "_Sa'ed Adel Atshan_" %}}_, Postdoctoral Fellow in International Studies, the Watson Institute at Brown University_
+_Guest speaker:_ [_Sa'ed Adel Atshan_](http://watson.brown.edu/news/explore/2014/atshan)_, Postdoctoral Fellow in International Studies, the Watson Institute at Brown University_
 
 Student presentation
 
