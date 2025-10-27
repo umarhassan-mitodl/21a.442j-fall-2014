@@ -49,6 +49,6 @@ Complete a research paper or project on a topic chosen in consultation with the 
 
 ## Extra Credit
 
-Attend the [Global Health and Medical Humanities Initiative (GHMHI)](http://ghmhi.mit.edu/) dinner at MIT on the evening of Session 10, to hear [Sa'ed Adel Atshan](http://watson.brown.edu/events/2013/saed-atshan-geography-international-aid-palestinian-territories) speak about violence, trauma, and humanitarian politics in Palestine.
+Attend the {{% resource_link "3738c946-288a-498c-bf33-d3376b6584fc" "Global Health and Medical Humanities Initiative (GHMHI)" %}} dinner at MIT on the evening of Session 10, to hear {{% resource_link "8aa9d31f-e98d-4d0d-ba1a-e5a70dd6a7b8" "Sa'ed Adel Atshan" %}} speak about violence, trauma, and humanitarian politics in Palestine.
 
 Atshan is a Postdoctoral Fellow in International Studies at Brown University's Watson Institute.
