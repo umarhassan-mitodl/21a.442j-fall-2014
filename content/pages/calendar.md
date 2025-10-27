@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of course topics, activities, and
   due dates for assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -43,9 +41,9 @@ Course Introduction
 
 Screenings:
 
-[_Doing Anthropology: Thoughts on Fieldwork From Three Research Sites_](http://video.mit.edu/watch/doing-anthropology-2651/)
+{{% resource_link "9f18575d-37b3-4b4a-b8d6-d570f7ce1531" "_Doing Anthropology: Thoughts on Fieldwork From Three Research Sites_" %}}
 
-[_The Story of Human Rights_](http://www.youthforhumanrights.org/what-are-human-rights.html)
+{{% resource_link "c7fe2bc7-de00-460c-a91f-f6cd93ebfb0a" "_The Story of Human Rights_" %}}
 
 
 {{< tdclose >}}
@@ -212,7 +210,7 @@ Student presentation
 
 
 Palestine  
-_Guest speaker:_ [_Sa'ed Adel Atshan_](http://watson.brown.edu/news/explore/2014/atshan)_, Postdoctoral Fellow in International Studies, the Watson Institute at Brown University_
+_Guest speaker:_ {{% resource_link "794489dd-8d2c-422b-a552-5b1b71c94370" "_Sa'ed Adel Atshan_" %}}_, Postdoctoral Fellow in International Studies, the Watson Institute at Brown University_
 
 Student presentation
 
